@@ -11,3 +11,8 @@ Welcome to my GitHub repository for the IEEE-ZSB-RAS Embedded Systems Track 2024
 ### Task 2: Arrays & Pointers & Functions
 - The objective of this assignment is clearly understand and exercise concepts of pointers with Operators.
 - The secondary objective is to get to know about pointers with functions and with arrays.
+
+### Task 2: Arrays & Pointers & Functions
+- The objective of this assignment is clearly understand and exercise concepts of pointer to functions.
+- The secondary objective is to get to know about  Function like macro.
+- Normal if, else if, else Vs Preprocessor directives #if, #elif, #else
