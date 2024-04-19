@@ -16,3 +16,6 @@ Welcome to my GitHub repository for the IEEE-ZSB-RAS Embedded Systems Track 2024
 - The objective of this assignment is clearly understand and exercise concepts of pointer to functions.
 - The secondary objective is to get to know about  Function like macro.
 - Normal if, else if, else Vs Preprocessor directives #if, #elif, #else
+
+### Task 4:
+- The objective of this assignment is clearly understand and exercise concepts of Structures.
