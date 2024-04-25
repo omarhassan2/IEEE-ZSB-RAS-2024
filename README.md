@@ -19,3 +19,10 @@ Welcome to my GitHub repository for the IEEE-ZSB-RAS Embedded Systems Track 2024
 
 ### Task 4:
 - The objective of this assignment is clearly understand and exercise concepts of Structures.
+
+### Task 5:
+- The objective of this assignment is clearly understand and exercise concepts of :
+    - Enums 
+    - Preprocessors 
+    - User Defined Data Types 
+
