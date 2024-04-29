@@ -17,12 +17,14 @@ Welcome to my GitHub repository for the IEEE-ZSB-RAS Embedded Systems Track 2024
 - The secondary objective is to get to know about  Function like macro.
 - Normal if, else if, else Vs Preprocessor directives #if, #elif, #else
 
-### Task 4:
+### Task 4: Structures
 - The objective of this assignment is clearly understand and exercise concepts of Structures.
 
-### Task 5:
+### Task 5: Enums & Preprocessors
 - The objective of this assignment is clearly understand and exercise concepts of :
     - Enums 
     - Preprocessors 
     - User Defined Data Types 
 
+### Task 6: Dynamic Memory Allocation
+- The objective of this assignment is clearly understand and exercise concepts of Dynamic Memory Allocation.
