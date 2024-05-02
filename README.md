@@ -28,3 +28,6 @@ Welcome to my GitHub repository for the IEEE-ZSB-RAS Embedded Systems Track 2024
 
 ### Task 6: Dynamic Memory Allocation
 - The objective of this assignment is clearly understand and exercise concepts of Dynamic Memory Allocation.
+
+### Task 7: Embedded Systems Concepts
+- The objective of this assignment is clearly understand embedded systems concepts.
