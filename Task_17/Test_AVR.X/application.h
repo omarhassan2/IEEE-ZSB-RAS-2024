@@ -16,14 +16,9 @@
 /* Section : Macro Functions Declarations */
 
 /* Section : Data Type Declarations */
+extern led_t led_0;
 extern led_t led_1;
 extern led_t led_2;
-extern led_t led_3;
-extern led_t led_4;
-extern led_t led_5;
-extern led_t led_6;
-extern led_t led_7;
-extern led_t led_8;
 
 /* Section : Function Declarations */
 void application_initialize(void);

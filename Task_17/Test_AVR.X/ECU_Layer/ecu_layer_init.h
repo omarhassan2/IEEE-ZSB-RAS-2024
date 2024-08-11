@@ -10,8 +10,9 @@
 
 /* Section : Includes */
 #include "../MCAL_Layer/GPIO/hal_gpio.h"
-#include "../MCAL_Layer/ADC/ADC.h"
+#include "../MCAL_Layer/Timers/timer.h"
 #include "LED/ecu_led.h"
+#include "Chr_LCD/ecu_chr_lcd.h"
 
 /* Section : Macro Declarations */
 
