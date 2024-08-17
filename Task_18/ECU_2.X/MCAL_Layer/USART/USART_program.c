@@ -443,8 +443,8 @@ void __vector_13 (void)
 	if (USART_u8Index == USART_u8BufferSize)
 	{
 		/*Send Data Complete*/
-
 		USART_u8Index=0;
+        
 		/*USART is now IDLE*/
 		USART_u8State = IDLE ;
 

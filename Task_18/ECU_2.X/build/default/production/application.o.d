@@ -31,8 +31,7 @@ build/default/production/application.o.d \
  ECU_Layer/../MCAL_Layer/Interrupts/GIE/GIE.h \
  ECU_Layer/../MCAL_Layer/Interrupts/GIE/../../mcal_std_types.h \
  ECU_Layer/../MCAL_Layer/Interrupts/GIE/../../bit_math.h \
- ECU_Layer/../MCAL_Layer/USART/USART_interface.h \
- ECU_Layer/../MCAL_Layer/USART/../mcal_std_types.h \
+ ECU_Layer/../MCAL_Layer/I2C/i2c_interface.h \
  ECU_Layer/Chr_LCD/ecu_chr_lcd.h ECU_Layer/Chr_LCD/ecu_chr_lcd_cfg.h \
  ECU_Layer/Chr_LCD/../../MCAL_Layer/GPIO/hal_gpio.h
 
@@ -102,9 +101,7 @@ ECU_Layer/../MCAL_Layer/Interrupts/GIE/../../mcal_std_types.h:
 
 ECU_Layer/../MCAL_Layer/Interrupts/GIE/../../bit_math.h:
 
-ECU_Layer/../MCAL_Layer/USART/USART_interface.h:
-
-ECU_Layer/../MCAL_Layer/USART/../mcal_std_types.h:
+ECU_Layer/../MCAL_Layer/I2C/i2c_interface.h:
 
 ECU_Layer/Chr_LCD/ecu_chr_lcd.h:
 

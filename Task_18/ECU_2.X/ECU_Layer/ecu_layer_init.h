@@ -11,7 +11,7 @@
 /* Section : Includes */
 #include "../MCAL_Layer/GPIO/hal_gpio.h"
 #include "../MCAL_Layer/Interrupts/GIE/GIE.h"
-#include "../MCAL_Layer/USART/USART_interface.h"
+#include "../MCAL_Layer/I2C/i2c_interface.h"
 #include "Chr_LCD/ecu_chr_lcd.h"
 
 /* Section : Macro Declarations */
